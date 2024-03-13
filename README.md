@@ -1,2 +1,1 @@
-# Blooket-Hacks-2024
-...
+run python script then the gui. EXTRACT IT
